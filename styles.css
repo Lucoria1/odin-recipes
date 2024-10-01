@@ -1,19 +1,32 @@
-.title {
+/* index */
+
+.index.title {
     color: rgb(251, 196, 255);
     font-family: "Courier New", "Lucida Console", monospace;
     text-align: center;
+    font-size: 40px;
+    font-weight: 800;
 }
 
-.image {
+.index.image {
     display: block;
     margin: auto;
 }
 
-ul {
+.index.parent {
     text-align:left;
     list-style-position: inside;
 }
 
 .link {
     font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-size: 20px;
 }
+
+/* index */
+
+/* Pesto */
+
+
+
+/* Pesto */
