@@ -1,5 +1,5 @@
 
-.index.title, .pesto.pesto.title {
+.index.title, .title {
     font-family: "Courier New", "Lucida Console", monospace;
     text-align: center;
     font-size: 40px;
@@ -10,7 +10,7 @@
     color: rgb(251, 196, 255);
 }
 
-.index.image, .pesto.image {
+.index.image, .image {
     display: block;
     margin: auto;
 }
@@ -26,7 +26,20 @@
 }
 
 
-.pesto.home {
+.home {
     font-family:Arial, Verdana, Helvetica, sans-serif;
     font-size: 20px;
 }
+
+.header {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.paragraph, .parent, .parent-ordered {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
