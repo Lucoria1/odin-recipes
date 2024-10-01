@@ -1,14 +1,16 @@
-/* index */
 
-.index.title {
-    color: rgb(251, 196, 255);
+.index.title, .pesto.pesto.title {
     font-family: "Courier New", "Lucida Console", monospace;
     text-align: center;
     font-size: 40px;
     font-weight: 800;
 }
 
-.index.image {
+.index.title {
+    color: rgb(251, 196, 255);
+}
+
+.index.image, .pesto.image {
     display: block;
     margin: auto;
 }
@@ -23,10 +25,8 @@
     font-size: 20px;
 }
 
-/* index */
 
-/* Pesto */
-
-
-
-/* Pesto */
+.pesto.home {
+    font-family:Arial, Verdana, Helvetica, sans-serif;
+    font-size: 20px;
+}
