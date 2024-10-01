@@ -3,3 +3,17 @@
     font-family: "Courier New", "Lucida Console", monospace;
     text-align: center;
 }
+
+.image {
+    display: block;
+    margin: auto;
+}
+
+ul {
+    text-align:left;
+    list-style-position: inside;
+}
+
+.link {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+}
