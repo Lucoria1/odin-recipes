@@ -16,13 +16,19 @@
 }
 
 .index.image, .image {
+    border: 1px solid black;
     display: block;
     margin: auto;
 }
 
 .index.parent {
+    padding: 5px;
+    border: 2px solid rgb(255, 138, 249);
+    border-radius: 10px;
+    background-color: rgb(255, 239, 249);
     display: block;
     margin-left: 275px;
+    margin-right: 275px;
     text-align:left;
     list-style-position: inside;
 }
