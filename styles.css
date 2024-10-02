@@ -1,3 +1,7 @@
+.index-background {
+    background-color: rgb(0, 0, 0);
+}
+
 
 .index.title, .title {
     font-family: "Courier New", "Lucida Console", monospace;
