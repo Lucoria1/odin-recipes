@@ -7,7 +7,12 @@
 }
 
 .index.title {
-    color: rgb(251, 196, 255);
+    padding: 10px 0px 0px 0px;
+    margin: 10px 200px 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(245, 130, 229);
+    color: rgb(255, 255, 255);
+    background-color: rgb(243, 220, 240);
 }
 
 .index.image, .image {
